@@ -3,7 +3,7 @@
 // @namespace    SettingsPlus
 // @version      3.1.2
 // @description  Cookie Clicker utility mod
-// @author       10tx
+// @author       counterfeitpercs
 // @match        https://orteil.dashnet.org/cookieclicker/*
 // @match        https://cookieclicker.ee/*
 // @grant        none
